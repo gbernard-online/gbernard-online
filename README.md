@@ -9,5 +9,5 @@ A collection of coding experiments where I explore new technologies and refine m
 `-`
 
 ![Avatar](https://github.com/gbernard-online.png?size=48 "Ghislain Bernard")  
-ghislain.bernard@gmail.com  
+gbernard-online@gmail.com  
 Software Engineer
